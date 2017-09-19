@@ -38,6 +38,6 @@ class Multiplication
 
 end
  m = Multiplication.new
- m.max_multiplication("abc1237dxzxzdsa344546995414р999")
+ m.max_multiplication "abc1237dxzxzdsa344546995414р999"
  m.max_multiplication'abc12345de91sas999'
  m.max_multiplication "a1b2c3d4e"
